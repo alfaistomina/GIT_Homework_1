@@ -3,5 +3,11 @@
 	"lastName": "Ivanova",
 	"age": 75,
 	"pets": 0,
-	"salary": "120000 EUR"
+	"salary": "120000 EUR",
+	"film": "Gogol",
+	"serial": "PES",
+	"season": "winter",
+	"food": "homefood",
+	"country": "Nepal"
+	
 }
